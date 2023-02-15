@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">Chronics</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register">Register</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="create"><u>Create Account</u></string>
+    <string name="sign">Sign up with</string>
+    <string name="registerWith">Register with</string>
+    <string name="google" translatable="false">Google</string>
+    <string name="message">Message</string>
+    <string name="biography">Biography</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="writeMessage">Write the message…</string>
+    <string name="searchGroup">Search for a group</string>
+    <string name="submitContent">Submit content</string>
+    <string name="writeStory">Write the story</string>
+    <string name="submitStory">Submit Story</string>
+    <string name="writeHere">Write here the story…</string>
+    <string name="search">Search…</string>
+    <string name="conversations">Conversations</string>
+    <string name="feelingDown">Do you know a person that is feeling down lately?</string>
+    <string name="suicide1">Do you know a person that talk frequently about this type of things?</string>
+    <string name="suicide2">-Killing themselves\n\n-Feeling hopeless\n\n-Having no reason to live\n\n-Being a burden to others\n\n-Felling trapped</string>
+    <string name="suicide3">How can you prevent suicide</string>
+    <string name="suicide4">-Listen and show that you are available to listen and hear what they want to say\n\n-Ask how can you help\n\n-Avoid giving advices\n\n-Keep it casual, ask them to a coffe\n\n-Let them open their pace\n\n-Encourage them to reach for help</string>
+    <string name="editPhoto">Edit profile photo</string>
+    <string name="editUsername">Edit Username</string>
+    <string name="editBio">Edit Bio</string>
+    <string name="createGroup">Create Group</string>
+    <string name="choosePhoto">Choose group photo</string>
+    <string name="groupName">Group Name</string>
+    <string name="groupDescription">Group Description</string>
+    <string name="questionnaire">Questionnaire</string>
+    <string name="nextQuestion">Next question</string>
+    <string name="submit">Submit</string>
+    <string name="suicideHotline">Some Suicide Hotlines</string>
+    <string name="selectPerson">Select Person to talk</string>
+    <string name="groupChat">Group Chat</string>
+    <string name="requestGroup">Requests for join group</string>
+    <string name="haveAcc"><u>Already have a Account</u></string>
+    <string name="decline">Decline</string>
+    <string name="writeComment">Write the comment here</string>
+    <string name="send">Send</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="layout_color">Layout color</string>
+    <string name="returne">Return</string>
+    <string name="help_msn">The app its about telling storys to everyone, without any restriction.\n\nTo do that you must have to register with google or register with a email and a password.\n\nWhen you do that you already can see all the publications of the other users.\n\nIf you want to post anything you will have a icon with a plus, then you write your story and it will appear to everyone without your photo only your username.\n\nYou also can create or join a group of messages between the members, if you are not on the group click on the group and it will be sent a message to the administrator.\n\nWhen the admin accept you can enter on group and write your messages.</string>
+    <string name="about_msn">Work done by: Miguel Távora\n\nNumber:45102\n\nClass:61D</string>
+    <string name="student_photo">Photo of student</string>
+    <string name="accept">Accept</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="red">Red</string>
+    <string name="grey">Grey</string>
+    <string name="blue">Blue</string>
+
+    <string name="country">Country</string>
+    <string name="hotline">Hotline</string>
+    <string name="argentina" translatable="false">Argentina</string>
+    <string name="hotline1" translatable="false">+ 54 (0) 223 493 0430</string>
+    <string name="australia">Australia</string>
+    <string name="hotline2" translatable="false">08 93 81 5555</string>
+    <string name="belgium">Belgium</string>
+    <string name="hotline3" translatable="false">08 93 81 5555</string>
+    <string name="botswana" translatable="false">Botswana</string>
+    <string name="hotline4" translatable="false">3911270</string>
+    <string name="brazil">Brazil</string>
+    <string name="hotline5" translatable="false">(91) 3223–0074</string>
+    <string name="canada" translatable="false">Canada</string>
+    <string name="hotline6" translatable="false">+1 (905) 459 7777</string>
+    <string name="china" translatable="false">China</string>
+    <string name="hotline7" translatable="false">(21) 63798990</string>
+    <string name="croatia">Croatia</string>
+    <string name="hotline8" translatable="false">(01) 4833–888</string>
+    <string name="cyprus">Cyprus</string>
+    <string name="hotline9" translatable="false">+357 77 77 72 67</string>
+    <string name="denmark">Denmark</string>
+    <string name="hotline10" translatable="false">+45 70 201 201</string>
+    <string name="egypt">Egypt</string>
+    <string name="hotline11" translatable="false">762 1602/3</string>
+    <string name="estonia" translatable="false">Estonia</string>
+    <string name="hotline12" translatable="false">+372 6558088</string>
+    <string name="finland">Finland</string>
+    <string name="hotline13" translatable="false">09–731391</string>
+    <string name="france">France</string>
+    <string name="hotline14" translatable="false">01 46 21 46 46</string>
+    <string name="germany">Germany</string>
+    <string name="hotline15" translatable="false">0800 181 0771</string>
+    <string name="hongKong" translatable="false">Hong Kong</string>
+    <string name="hotline16" translatable="false">+852 28 960 000</string>
+    <string name="hungary">Hungary</string>
+    <string name="hotline17" translatable="false">(62) 420 111</string>
+    <string name="india" translatable="false">India</string>
+    <string name="hotline18" translatable="false">+91 33 2474 4704</string>
+    <string name="ireland">Ireland</string>
+    <string name="hotline19" translatable="false">+44 (0) 8457 90 91 92</string>
+    <string name="italy">Italy</string>
+    <string name="hotline20" translatable="false">800 86 00 22</string>
+    <string name="japan">Japan</string>
+    <string name="hotline21" translatable="false">+81 (0) 3 5286 9090</string>
+    <string name="lithuania">Lithuania</string>
+    <string name="hotline22" translatable="false">8–800 2 8888</string>
+    <string name="netherlands">Netherlands</string>
+    <string name="hotline23" translatable="false">0602 222 88</string>
+    <string name="newZealand">New Zealand</string>
+    <string name="hotline24" translatable="false">(04) 586 1048</string>
+    <string name="norway">Norway</string>
+    <string name="hotline25" translatable="false">+47 815 33 300</string>
+    <string name="philippines">Philippines</string>
+    <string name="hotline26" translatable="false">(02) 8969191</string>
+    <string name="poland">Poland</string>
+    <string name="hotline27" translatable="false">52 70 000</string>
+    <string name="portugal" translatable="false">Portugal</string>
+    <string name="hotline28" translatable="false">(+351) 225 50 60 70</string>
+    <string name="russia" translatable="false">Russia</string>
+    <string name="hotline29" translatable="false">007 (8202) 577–577</string>
+    <string name="southAfrica">South Africa</string>
+    <string name="hotline30" translatable="false">051 444 5691</string>
+    <string name="southKorea">South Korea</string>
+    <string name="hotline31" translatable="false">051 444 5691</string>
+    <string name="sweden">Sweden</string>
+    <string name="hotline32" translatable="false">020 22 00 60</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="hotline33" translatable="false">+41 (0) 27 321 21 21</string>
+    <string name="unitedKingdom">United Kingdom</string>
+    <string name="hotline34" translatable="false">+44 (0) 8457 90 91 92</string>
+
+
+    <string name="question">Question </string>
+    <string name="quest1">Are you scared of the dark?</string>
+    <string name="op11">I like it</string>
+    <string name="op12">Once in a while</string>
+    <string name="op13">Kinda, yeah</string>
+    <string name="quest2">Have you ever faked a sick to get out of a really important event?</string>
+    <string name="op21">Duh? Who hasn\'t</string>
+    <string name="op22">Not a important event, but I do fake sick</string>
+    <string name="op23">Nope. Honesty is my policy</string>
+    <string name="quest3">There\'s a spider in the bath! What do you do?</string>
+    <string name="op31">Shut the door and run forever</string>
+    <string name="op32">Talk to it</string>
+    <string name="op33">Take it outside</string>
+    <string name="quest4">What movie genre do you loathe?</string>
+    <string name="op41">Romance</string>
+    <string name="op42">Horror. Hate it Hate it Hate it</string>
+    <string name="op43">Period drama</string>
+    <string name="quest5">You wake to the chirping of birds. How do you feel?</string>
+    <string name="op51">Delighted</string>
+    <string name="op52">Annoyed</string>
+    <string name="op53">Indifferent</string>
+    <string name="quest6">Do you know your neighbor\'s?</string>
+    <string name="op61">No, there\'s no point to that</string>
+    <string name="op62">We are friends</string>
+    <string name="op63">We are friendly acquaintances</string>
+    <string name="quest7">Do you like most people?</string>
+    <string name="op71">No, people suck. Include you. Yes, you. And me</string>
+    <string name="op72">I like half of people</string>
+    <string name="op73">Most, yes?</string>
+    <string name="quest8">Would your friends call you "Laid-back"?</string>
+    <string name="op81">Lol no</string>
+    <string name="op82">Totally</string>
+    <string name="op83">Doubt it</string>
+    <string name="quest9">Have you ever laughed when something bad happened to someone you knew?</string>
+    <string name="op91">All the time</string>
+    <string name="op92">I laughed more than at my own dumb self</string>
+    <string name="op93">Bad things only make me sad</string>
+    <string name="quest10">When was the last time you paid someone a complement?</string>
+    <string name="op101">Just today</string>
+    <string name="op102">In the last weeks or so</string>
+    <string name="op103">I don\'t compliment people</string>
+
+
+    <string name="exampleuser" translatable="false">User1</string>
+    <string name="lorem" translatable="false">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia.</string>
+    <string name="examplenumber" translatable="false">199</string>
+    <string name="examplecoment" translatable="false">6 comments</string>
+    <string name="examplehistorys" translatable="false">Nº of likes: 200\nNº of historys: 10</string>
+    <string name="exampledate" translatable="false">10/7/20</string>
+    <string name="examplegroup" translatable="false">Group Name</string>
+    <string name="exampleNumMembers" translatable="false">1024 Members</string>
+    <string name="exampleBio" translatable="false">Bio 1</string>
+    <string name="button" translatable="false">Button</string>
+    <string name="exUser1" translatable="false">User1 (very good match)</string>
+    <string name="exUser2" translatable="false">User2 (good match)</string>
+    <string name="exUser3" translatable="false">User3 (middle match)</string>
+    <string name="exUser4" translatable="false">User4 (bad match)</string>
+    <string name="exUser5" translatable="false">User5 (very bad match)</string>
+    <string name="exmp" translatable="false">AAAAAAA</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dam_path.dam_45102.run">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Content" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".ContentAdd" />
+        <activity android:name=".Conversations"
+            android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".CreateGroup" />
+        <activity android:name=".EditProfile" />
+        <activity android:name=".Group" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Message" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name=".Register" />
+        <activity android:name=".Profile" />
+        <activity android:name=".Questionnaire" />
+        <activity android:name=".Suicide" />
+        <activity android:name=".SuicideHotline" />
+        <activity android:name=".SelectPerson" />
+        <activity android:name=".GroupChat" />
+        <activity android:name=".GroupRequest" />
+        <activity android:name=".Information"/>
+        <activity android:name=".Help"/>
+        <activity android:name=".InfoAbout"/>
+        <activity android:name=".LayoutChange"/>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

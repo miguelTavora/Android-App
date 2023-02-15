@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200387754784",
+    "firebase_url": "https://chronics-e4d41.firebaseio.com",
+    "project_id": "chronics-e4d41",
+    "storage_bucket": "chronics-e4d41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200387754784:android:1ab8268f7e6bc30c903545",
+        "android_client_info": {
+          "package_name": "dam_path.dam_45102.run"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200387754784-jqpfo0i6tvqldgrufggj4kff7ct09s35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4u10tbAe8pBVCwRPKV3sHstr_Uix8Ecs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200387754784-jqpfo0i6tvqldgrufggj4kff7ct09s35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
